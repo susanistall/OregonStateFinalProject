@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c55095f53babd41408cf3a8b90d1e1b9
+timeCreated: 1477866875
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinSound: {fileID: 8300000, guid: ea044cfb70528df4eafa4bce7561f6d9, type: 3}
+  - aSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
